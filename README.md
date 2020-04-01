@@ -5,7 +5,8 @@
 Clone this repo and then run `mvn clean install` inside the project 
 (if mvn isn't recognised then open the project in eclipse -> right-click on project -> run as -> maven install)
 
-![Maven Install](https://imgur.com/WZxohrv)
+![Maven Install]
+(https://imgur.com/WZxohrv)
 
 ## Use
 
