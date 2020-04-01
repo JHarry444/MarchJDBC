@@ -10,8 +10,8 @@ public class Runner {
 		DB db = new DB();
 		try {
 			String action = "";
+			action = getAction();
 			do {
-				action = getAction();
 				switch (action) {
 				case "create":
 					System.out.println("Enter first name:");
@@ -31,6 +31,7 @@ public class Runner {
 				default:
 					System.out.println("No matching case");
 				}
+				action = getAction();
 			} while (!action.equals("quit"));
 			System.out.println("bye");
 		} finally {
