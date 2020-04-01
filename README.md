@@ -5,8 +5,10 @@
 Clone this repo and then run `mvn clean install` inside the project 
 (if mvn isn't recognised then open the project in eclipse -> right-click on project -> run as -> maven install)
 
-![Maven Install]
-(https://i.imgur.com/WZxohrv.png)
+![Maven Install(https://i.imgur.com/WZxohrv.png)
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Use
 
